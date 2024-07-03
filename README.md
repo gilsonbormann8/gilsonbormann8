@@ -19,4 +19,5 @@
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gilsonbormann8@gmail.com" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/gilsonbormannarruda/" title="LinkedIn">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonbormannarruda/" alt="LinkedIn"/></a>
+<a> <img  alt="Gabriel-SAP" height="20" width="80" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
 </p>
