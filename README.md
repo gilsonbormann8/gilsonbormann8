@@ -1,18 +1,22 @@
-### Olá!!! eu sou o Gilson
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
  
-<div>
-<a href="https://github.com/gabriel-cavalheiro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonbormann8&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonbormann8&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-</div>
-
-<div> 
-<a href = "mailto:gilsonbormann8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gilsonbormannarruda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a target="_blank"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"target="_blank"></a> 
-  
-
-</div>
+<p align="left"> 
+ Gilson Bormann SAP ABAP Developer | S4HANA | FIORI | CPI | CI
+</p>
+ 
+### Tecnologies
+  - SAP Development  
+    - ABAP
+    - FIORI
+    - RAP
+  - SAP Integrations
+    - CPI
+    - API Management 
+    - PI/PO 
+ 
+<p align="left">
+<a href="mailto:gilsonbormann8@gmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gilsonbormann8@gmail.com" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/gilsonbormannarruda/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonbormannarruda/" alt="LinkedIn"/></a>
+</p>
